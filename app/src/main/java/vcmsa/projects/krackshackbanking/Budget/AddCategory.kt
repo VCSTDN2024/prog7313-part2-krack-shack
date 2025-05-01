@@ -44,10 +44,6 @@ class AddCategory {
 
     var _catergoy = BudgetModel(categoryID,categoryName, UID.toString(),categoryTotalCost)
 
-
-
-
-
   }
 
   fun DialougeBox
@@ -66,6 +62,10 @@ class AddCategory {
       builder.setView(input)
 
     }
+    class UpdateCategory {
 
+    }
+    class DeleteCategory {
 
+    }
 }
