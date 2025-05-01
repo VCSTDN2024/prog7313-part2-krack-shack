@@ -9,6 +9,7 @@
     <string name="Register">Register</string>
     <string name="Or">Or</string>
     <string name="Username">Username</string>
+    <string name="Email">Email</string>
     <string name="EnterUsername">Enter Username</string>
     <string name="Password">Password</string>
     <string name="EnterPassword">Enter Password</string>
@@ -29,7 +30,7 @@
     <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="logout">Logout</string>
-    <string name="email">Email</string>
+    <string name="email">Enter Email</string>
     <string name="password">Password</string>
     <string name="password_input_hint">Enter Password</string>
     <string name="confirm_password">Confirm Password</string>
