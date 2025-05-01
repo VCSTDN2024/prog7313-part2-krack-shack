@@ -44,15 +44,15 @@
                 android:layout_marginTop="0dp"
                 android:background="@drawable/format_button"
                 android:gravity="center"
-                android:hint="@string/username_input_hint"
+                android:hint="@string/Username"
                 android:inputType="text"
                 android:paddingStart="10dp"
                 android:paddingTop="10dp"
                 android:paddingEnd="10dp"
                 android:paddingBottom="10dp"
                 android:text="@string/EnterUsername"
-                android:textColor="@color/white"
-                android:textColorHint="@color/white"
+                android:textColor="@color/text_hint"
+                android:textColorHint="@color/text_hint"
                 android:textSize="30sp" />
 
             <TextView
@@ -86,8 +86,8 @@
                 android:paddingTop="10dp"
                 android:paddingEnd="10dp"
                 android:paddingBottom="10dp"
-                android:textColor="@color/white"
-                android:textColorHint="@color/white"
+                android:textColor="@color/text_hint"
+                android:textColorHint="@color/text_hint"
                 android:textSize="30sp" />
 
             <TextView
@@ -117,8 +117,8 @@
                 android:gravity="center"
                 android:hint="@string/confirm_password_input_hint"
                 android:inputType="textPassword"
-                android:textColor="@color/white"
-                android:textColorHint="@color/white"
+                android:textColor="@color/text_hint"
+                android:textColorHint="@color/text_hint"
                 android:textSize="30sp" />
 
             <Button
